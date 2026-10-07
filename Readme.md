@@ -47,16 +47,6 @@ My current focus is full-stack development with a strong interest in backend eng
 
 ---
 
-## How I learn
-
-I don't try to learn everything before building.
-
-I usually start with a question, build something around it, run into limitations, and use those limitations to understand the underlying concepts.
-
-That approach has gradually taken me from building web applications to becoming more interested in what happens underneath them — HTTP, networking, concurrency, processes, memory, runtimes, and operating systems.
-
----
-
 ## Currently
 
 I'm working toward becoming a stronger full-stack developer while going deeper into backend and systems engineering.
